@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 // import Planets from '../data/planets';
 
 class PlanetCard extends React.Component {
@@ -12,5 +13,7 @@ class PlanetCard extends React.Component {
     );
   }
 }
+
+PlanetCard.propType = {};
 
 export default PlanetCard;
