@@ -1,0 +1,48 @@
+.cards {
+  background-color: rgba(24, 26, 37, 0.5);
+  border: 1px solid white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  width: 496px;
+}
+
+.Name {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  margin-left: 15px;
+  text-transform: uppercase;
+}
+
+.Missao {
+  align-items: center;
+  display: flex;
+  height: 70px;
+  justify-content: space-evenly;
+}
+
+.calendario {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 15%;
+}
+
+.local {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 25%;
+}
+
+.bandeira {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 25%;
+}

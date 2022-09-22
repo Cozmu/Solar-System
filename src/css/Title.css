@@ -1,0 +1,8 @@
+.Title {
+  display: flex;
+  font-size: 40px;
+  font-weight: 300;
+  justify-content: center;
+  margin-top: 70px;
+  text-transform: uppercase;
+}

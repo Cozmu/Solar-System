@@ -1,0 +1,7 @@
+.SolarSystem {
+  align-items: center;
+  display: flex;
+  height: 400px;
+  justify-content: space-around;
+  width: 100%;
+}

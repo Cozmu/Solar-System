@@ -1,0 +1,8 @@
+.header {
+  background-image: url('../images/logo-sistema-solar.png');
+  display: flex;
+  height: 263.45px;
+  justify-content: center;
+  margin: auto;
+  width: 451.85px;
+}
