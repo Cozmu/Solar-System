@@ -1,6 +1,6 @@
 # Seja bem-vindo ao projeto Solar System!! 🌎🪐
 
-#### 
+#### Nesse projeto iniciou-se minha jornada com o React. Um projeto simples que apenas exibe o sistema solar e algumas expedições espacias feitas pela humanidade.
 
 <div style="margin-top:15px">
   <img alt="exibição do projeto" src="cap.png">
